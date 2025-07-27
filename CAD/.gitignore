@@ -1,0 +1,5 @@
+# a folder with dev revisions
+.rev
+
+#freecad backup
+*.FCBak
